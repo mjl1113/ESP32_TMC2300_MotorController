@@ -4,4 +4,4 @@ The design includes electronic hardware design, firmware design and software des
 The source codes are not fully opened yet, but might be shared at a later stage.
 
 For detailed description, please refer to:
-[English](README_en.md) | [简体中文](README_zh.md)
+[English](./README_en.md) | [简体中文](./README_zh.md)
